@@ -26,7 +26,7 @@
 1. Clonează acest repository:
 
    ```bash
-   git clone https://github.com/username/mr-security-bot.git
+   git clone https://github.com/dnx01/Mr.security
    cd mr-security-bot
    ```
 
