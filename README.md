@@ -27,7 +27,7 @@
 
    ```bash
    git clone https://github.com/dnx01/Mr.security
-   cd mr-security-bot
+   cd Mr.security
    ```
 
 2. Instalează pachetele necesare:
